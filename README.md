@@ -1,4 +1,4 @@
-# poignart
+# PoignART
 
 Automate tile [ASCII](https://montcs.bloomu.edu/Information/Encodings/ascii-7.html) encoding for the Infinite stairs theme.
 
