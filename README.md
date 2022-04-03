@@ -22,4 +22,4 @@ Here's a `hello world ` example:
    
 </p>
 
-The Pythagorean `(c-b)/a` scale-symmetry used for these Infinite stairs is `(205^(1/2) - 3)/14`; [Wolfram calculation](https://www.wolframalpha.com/input?i=a+%3D+700%3B+b+%3D+300%2F2%3B+a+%3D+2bx+%2B+a%28x%5E2%29).
+The Pythagorean `(c-b)/a` scale-symmetry (Golden Ratio, Metallic Mean) used for these Infinite stairs is `(205^(1/2) - 3)/14`; [Wolfram calculation](https://www.wolframalpha.com/input?i=a+%3D+700%3B+b+%3D+300%2F2%3B+a+%3D+2bx+%2B+a%28x%5E2%29).
