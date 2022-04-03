@@ -33,7 +33,7 @@ function asObject( $0 ) {
 				)
 			;
 		}
-		; _1.count ++
+		_1.count ++
 		;
 	}
 	_1.svg.children[ 2 ].children = _1.object
